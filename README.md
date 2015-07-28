@@ -15,7 +15,7 @@ $ ansible-galaxy install heskethm.wp-cli
 Role Variables
 --------------
 
-All available variables are listed below. You may override these in your Playbook, `group_vars`, command line etc.
+All available variables and default values are listed below. You may override these in your Playbook, `group_vars`, command line etc.
 
 ```yml
 wp_cli_phar_url: https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
